@@ -1,6 +1,6 @@
 # python variable annotations
 
-
+<img src"https://github.com/ghbouzrbay/alx-backend-python/blob/main/0x00-python_variable_annotations/python.png">
 
 ## Resources
 ### Read or watch:
